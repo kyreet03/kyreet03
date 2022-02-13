@@ -1,0 +1,5 @@
+- 👋 Hey, I’m KyRee Travis
+- 👀 I’m interested in growing my software engineering skills and becoming proficient in multiple languages 
+- 🌱 I’m currently studying Computer Science at Georgia State University
+- 💞️ I’m looking to collaborate on anything for the most part,I enjoy coding and can't wait to dive deeper into software development.
+- 📫 You can email me reach me at my email ktravis7@student.gsu.edu
